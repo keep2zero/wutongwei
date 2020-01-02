@@ -22,7 +22,7 @@ class BlogIndex {
   public doc(@Param("md") md: string, response: HttpResponse) : string {
 
     const content = fs.readFileSync(path.resolve("./blog",  md + ".md")).toString("utf-8"); 
-    response.setContentType("text/html"); 
+    response.setContentType("text/html; charset=utf-8"); 
     const mdIt = new MarkdownIt(); 
     const result = mdIt.render(content);
 
