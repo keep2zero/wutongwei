@@ -30,6 +30,7 @@ class BlogIndex {
        <html>
        <head>
           <title>泡泡足迹</title>
+          <meta charset="utf-8"/>
           <link rel="stylesheet" href="/webapp/assets/css/index.css" />
        </head>
        <body>
