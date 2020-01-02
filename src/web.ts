@@ -29,8 +29,9 @@ class BlogIndex {
     const html = `
        <html>
        <head>
-          <title>泡泡足迹</title>
           <meta charset="utf-8"/>
+          <title>泡泡足迹</title>
+          <meta name="viewport" content="width=device-width, initial-scale=1"/>
           <link rel="stylesheet" href="/webapp/assets/css/index.css" />
        </head>
        <body>
