@@ -13,7 +13,7 @@
 [点击我, 查看本博客站点代码库](https://github.com/keep2zero/wutongwei)
 
 
-`开源项目入群:` ![Taro Code微信群](https://www.wutongwei.com/webapp/assets/images/group.png)
+`开源项目入群:` ![Taro Code微信群](http://www.wutongwei.com/webapp/assets/images/group.png)
 
 
 ## logs
