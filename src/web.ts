@@ -29,9 +29,13 @@ class BlogIndex {
     const html = `
        <html>
        <head>
-          <link rel="stylesheet" href="/webapp/assets/css/index.css"
+          <title>泡泡足迹</title>
+          <link rel="stylesheet" href="/webapp/assets/css/index.css" />
        </head>
-       <body><div class="markdown-body">${result}</div></body>
+       <body>
+           <div class="markdown-body">${result}</div>
+           <footer class=""><a href='http://beian.miit.gov.cn' target='_blank'>粤ICP备19003644号</a></footer>
+       </body>
        </html>
     `;
 
