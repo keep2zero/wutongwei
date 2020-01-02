@@ -12,5 +12,8 @@
   "dependencies": {
     "@oneline/core": "^0.0.1",
     "markdown-it": "^10.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^13.1.2"
   }
 }
